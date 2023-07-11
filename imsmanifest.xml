@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6nwIfHviuch" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">2023 EQE SUV</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="2023_EQE_SUV_ORG">
+    <organization identifier="2023_EQE_SUV_ORG">
+      <title>2023 EQE SUV</title>
+      <item identifier="_2023_EQE_SUV_SCO" isvisible="true" identifierref="__6nwIfHviuch_RES">
+        <title>2023 EQE SUV</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6nwIfHviuch_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6nng50UPjre.png" />
+      <file href="mobile/6LYWgeTdsrn.png" />
+      <file href="mobile/5jwFgnqpLMZ.png" />
+      <file href="mobile/5ip8sVDnxXt.png" />
+      <file href="mobile/6YLqLcWgzYU.png" />
+      <file href="mobile/6aShKAk4jBG.png" />
+      <file href="mobile/6k5uEarSKdl_P_387_2_794_794.jpg" />
+      <file href="mobile/6k5uEarSKdl_B20_P_387_2_794_794.jpg" />
+      <file href="mobile/5b614QiLSff_P_0_221_706_351.jpg" />
+      <file href="mobile/5b614QiLSff_B20_P_0_221_706_351.jpg" />
+      <file href="mobile/6V7mArWPVJB_P_-4_134_986_493.jpg" />
+      <file href="mobile/6V7mArWPVJB_B20_P_-4_134_986_493.jpg" />
+      <file href="mobile/5q4JvBdy12Q_P_0_110_1054_498.jpg" />
+      <file href="mobile/5q4JvBdy12Q_B20_P_0_110_1054_498.jpg" />
+      <file href="mobile/6TRzYVztNup_P_0_46_1410_701.jpg" />
+      <file href="mobile/6TRzYVztNup_B20_P_0_46_1410_701.jpg" />
+      <file href="mobile/62qMVSpC4Xz.jpg" />
+      <file href="mobile/62qMVSpC4Xz_B20.jpg" />
+      <file href="mobile/5sYPm63rSBN.jpg" />
+      <file href="mobile/5sYPm63rSBN_B20.jpg" />
+      <file href="mobile/5exrPSkgA0a_P_1_249_1410_431.jpg" />
+      <file href="mobile/6NZ1Ozlcwsg_P_0_59_507_269.jpg" />
+      <file href="mobile/6VmBTcB1BUA_P_318_0_773_794.jpg" />
+      <file href="mobile/5yt7AovDVQY_P_0_86_1109_620.jpg" />
+      <file href="mobile/6VpyfnrUFMP_P_0_68_1410_657.jpg" />
+      <file href="mobile/6XshJv11FOh_P_18_0_501_388.jpg" />
+      <file href="mobile/62NDNt5Jm87_B-10_P_146_0_1265_712.jpg" />
+      <file href="story_content/video_5VjKY5cAblt_18_56_1440x540.mp4" />
+      <file href="mobile/poster_6DRgItw1RhF_video_5VjKY5cAblt_18_56_1440x540.jpg" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="mobile/Shape6dk5iXwN51S.png" />
+      <file href="mobile/Shape5iFd6z99vHw.png" />
+      <file href="mobile/Shape5ySIvTmGbzc.png" />
+      <file href="mobile/Shape5iu9v2YBLxY.png" />
+      <file href="mobile/Shape5swACGrvh3O.png" />
+      <file href="mobile/txt__default_5pLL7ep0QKD.png" />
+      <file href="mobile/txt__default_6khJn2E26Wv.png" />
+      <file href="mobile/Shape6hVxZP1IWgu.png" />
+      <file href="mobile/Shape5ZMerXJgae3.png" />
+      <file href="mobile/Shape5caG4ThfMsS.png" />
+      <file href="mobile/Shape5leKIXbA0Nt.png" />
+      <file href="mobile/Shape6G7bechHdUW.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5jxkdgidbJv.js" />
+      <file href="html5/data/js/5o4AMckSygG.js" />
+      <file href="html5/data/js/5su3eO0nBFl.js" />
+      <file href="html5/data/js/5WaWpDICoCJ.js" />
+      <file href="html5/data/js/60DngBNFPAL.js" />
+      <file href="html5/data/js/68vz9G15euS.js" />
+      <file href="html5/data/js/6fV9xhh6Lea.js" />
+      <file href="html5/data/js/6RyHqsWJpE4.js" />
+      <file href="html5/data/js/6Vfnk6xcHqo.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/hls/hls.min.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
